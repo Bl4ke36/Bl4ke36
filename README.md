@@ -1,16 +1,21 @@
-### Hi there 👋
+![heather](./Header.png)
+# Sobre mi
+Estudiante universitario mexicano de programacion orientada a videojuegos que busca aprender mas y hacer uso de este conocimiento para cumplir su sueño
 
-<!--
-**Bl4ke36/Bl4ke36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cosas que me gustan:**
+- Escuchar musica
+- Ver anime
+- Jugar videojuegos
 
-Here are some ideas to get you started:
+**Cosas que no me gustan:**
+- Multitudes
+- Bullicio
+- Estar quieto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**FunFact:** OTP Neeko
+# Encuentrame
+**Redes:**
+- [TWITCH](https://www.twitch.tv/bl4ke_36)
+- [INSTAGRAM](https://www.instagram.com/bl4ke36/)
+- [TIKTOK](https://www.tiktok.com/@bl4ke36_)
+- [ITCH.IO](https://bl4ke36.itch.io)
